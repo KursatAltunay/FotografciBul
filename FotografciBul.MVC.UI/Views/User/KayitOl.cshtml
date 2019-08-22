@@ -1,0 +1,68 @@
+﻿@model Kullanici
+
+@{
+    ViewBag.Title = "UserRegister";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="panel-heading mt-5 mb-5">
+        <h3 class="text-warning">Kullanıcı kayıt ekranı</h3>
+    </div>
+    @using (Html.BeginForm("KayitOl", "User", FormMethod.Post))
+    {
+        <div class="row form-group">
+            <div class="col-md-6">
+                <label class="text-black" for="email">Adı</label>
+                @Html.TextBoxFor(x => x.Adi, new { @class = "form-control", type = "text" })
+            </div>
+            <div class="col-md-6">
+                <label class="text-black" for="email">Soyadı</label>
+                @Html.TextBoxFor(x => x.Soyadi, new { @class = "form-control", type = "text" })
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-md-6">
+                <label class="text-black" for="email">Email</label>
+                @Html.TextBoxFor(x => x.Email, new { @class = "form-control", type = "email" })
+            </div>
+            <div class="col-md-6">
+                <label class="text-black" for="subject">Telefon</label>
+                @Html.TextBoxFor(x => x.Telefon, new { @class = "form-control", type = "text" })
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-md-6">
+                <label class="text-black" for="subject">Şifre</label>
+                @Html.TextBoxFor(x => x.Sifre, new { @class = "form-control", type = "password" })
+            </div>
+            <div class="col-md-6">
+                <label class="text-black" for="subject">Şifre Tekrar</label>
+                @Html.TextBoxFor(x => x.Sifre, new { @class = "form-control", type = "password" })
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-md-6">
+                <label class="text-black" for="subject">Doğum Tarihi</label>
+                @Html.TextBoxFor(x => x.Sifre, new { @class = "form-control", type = "date" })
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-md-12">
+                <input type="submit" name="name" value="Kaydet" class="btn btn-warning py-2 px-4 text-white">
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-6">
+                <p>Kayıtlı mısınız? <a href="@Url.Action("UserLogin", "User")" class="text-warning">Giriş Yap</a></p>
+            </div>
+        </div>
+
+    }
+    <div>
+        @if (ViewBag.Error != null)
+        {
+            <span>@ViewBag.Error</span>
+        }
+    </div>
+</div>

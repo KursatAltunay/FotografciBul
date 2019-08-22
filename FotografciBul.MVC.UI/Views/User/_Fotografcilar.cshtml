@@ -1,0 +1,20 @@
+﻿
+@model List<Fotografci>
+<div class="container">
+    @using (Html.BeginForm("KullaniciAnasayfa", "User", FormMethod.Post))
+    {
+        <div class="row form-group">
+            <div class="col-lg-12 mb-4 mb-xl-0 col-xl-4">
+                <div class="select-wrap">
+                    <label class="text-warning">Fotoğrafçı Seçiniz :</label>
+                    <select class="form-control rounded" name="" id="">
+                        @foreach (Fotografci item in Model)
+                        {
+                            <option value="">@item.Adi</option>
+                        }
+                    </select>
+                </div>
+            </div>
+        </div>
+    }
+</div>

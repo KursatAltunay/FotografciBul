@@ -1,0 +1,460 @@
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.rsp
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.rsp
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Console.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.rsp
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csprojAssemblyReference.cache
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CoreCompileInputs.cache
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CopyComplete
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\WebActivatorEx.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.rsp
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.rsp
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.AppContext.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Console.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.rsp
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\WebActivatorEx.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CopyComplete
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csprojAssemblyReference.cache
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CoreCompileInputs.cache
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.rsp
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.rsp
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.AppContext.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Console.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.rsp
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\WebActivatorEx.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CopyComplete
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.rsp
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.rsp
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.AppContext.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Console.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.rsp
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\WebActivatorEx.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CopyComplete
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.pdb
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.MVC.UI.pdb
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.exe.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csc.rsp
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.exe.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\csi.rsp
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.AppContext.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Console.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.exe.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\vbc.rsp
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\WebActivatorEx.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.pdb
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.BLL.dll.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.pdb
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Core.dll.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.pdb
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.DAL.dll.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.pdb
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\FotografciBul.Model.dll.config
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Common.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Razor.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Helpers.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\System.Web.Mvc.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.csproj.CopyComplete
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.dll
+C:\Users\tuba\Desktop\v6.0\FotografciBul\FotografciBul.MVC.UI\obj\Debug\FotografciBul.MVC.UI.pdb

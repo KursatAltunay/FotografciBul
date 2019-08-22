@@ -1,0 +1,19 @@
+﻿@model ICollection<string>
+
+<div class="section slider-section">
+    <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-7">
+                <h2 class="heading" data-aos="fade-up">Fotoğraf Galerisi</h2>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (string item in Model)
+            {
+                <div class="col-md-4">
+                    <img src="~/Assets/images/@item" alt="Image" class="img-fluid rounded">
+                </div> <br />
+            }
+        </div>
+    </div>
+</div>

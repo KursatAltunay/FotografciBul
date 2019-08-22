@@ -1,0 +1,28 @@
+﻿@model ICollection<Fotografci>
+<section class="section testimonial-section" id="section-fotografcilar">
+    <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-7">
+                <h2 class="heading" data-aos="fade-up">Bazı Üye Fotoğrafçılarımız</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="js-carousel-2 owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
+                @foreach (Fotografci item in Model)
+                {
+                    <div class="testimonial text-center slider-item">
+                        <div class="author-image mb-3">
+                            <img src="~/Assets/images/@item.Fotograf" alt="Image placeholder" class="rounded-circle mx-auto">
+                        </div>
+                        <blockquote>
+                            <p>&ldquo;@item.Aciklama&rdquo;</p>
+                        </blockquote>
+                        <p><em>&mdash; @item.Adi</em></p>
+                    </div>
+                }
+                @* ****************************** *@
+            </div>
+
+        </div>
+    </div>
+</section>

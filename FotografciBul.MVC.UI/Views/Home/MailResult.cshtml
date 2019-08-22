@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "MailResult";
+    Layout = "~/Views/Shared/_IndexLayout.cshtml";
+}
+
+
+<h2>Mail</h2>
+
+@using (Html.BeginForm("MailResult", "Home", FormMethod.Post, new { id = "contact-form", action = "" }))
+{
+    if (ViewBag.Success == true)
+    {
+        <script>alert("Mesajınız başarıyla gönderilmiştir.");</script>
+    }
+
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <label for="name">Name</label>
+            <input type="text" name="Name" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <label for="email">Email</label>
+            <input type="text" name="Email" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <label for="email">Konu</label>
+            <input type="text" name="Subject" />
+        </div>
+    </div>
+    <div class="row mb-4">
+        <div class="col-md-12 form-group">
+            <label for="message">Write Message</label>
+            <textarea name="Message" class="form-control " cols="30" rows="8"></textarea>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <input type="submit" value="Gönder" class="btn btn-primary text-white font-weight-bold">
+            <div class="submitting"></div>
+        </div>
+    </div>
+}

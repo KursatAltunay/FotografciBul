@@ -1,0 +1,51 @@
+﻿@model ICollection<RandevuTalebi>
+@{
+    ViewBag.Title = "FotografciProfilView";
+    Layout = "~/Views/Shared/_ProfilLayout.cshtml";
+}
+
+@{
+    List<string> hizmetler = new List<string> { "", "Düğün", "Doğum", "Bebek", "Mezuniyet", "Doğum Günü", "Moda", "Ürün" };
+    int sayac = 0;
+}
+
+<div class="container-fluid mt-5 mb-5">
+    @Html.Action("_FotografciBilgileri", "Photographer", new { id = ViewBag.KullaniciID })
+
+    <div class="row mt-4">
+        @*<div class="col-md-6"><h6>Onay Bekleyen Randevular</h6></div>
+        <div class="col-md-6"><h6>Onaylanan Randevular</h6></div>*@
+        @foreach (var item in Model)
+        {
+            if (sayac == 2)
+            {
+                sayac = 0;
+                <br />
+            }
+            <div class="col-md-6">
+                <div class="card text-dark bg-light flex-md-row mb-4 shadow-sm h-md-250">
+                    <div class="card-body d-flex flex-column align-items-start">
+                        <strong class="d-inline-block mb-2 text-dark">Hizmet: @hizmetler[item.HizmetID]</strong>
+                        <h6 class="mb-0">
+                            <a class="text-dark" href="#">Randevu Tarihi: @item.RandevuTarihi</a>
+                        </h6>
+                        <div class="mb-1 text-dark-50 small">Oluşturulma Tarihi: @item.OlusturulmaTarihi</div>
+                        <p class="card-text mb-auto">Kullanıcı ID: @item.KullaniciID  &nbsp; &nbsp; Onay Durumu:@item.OnayDurumu</p>
+                        <div class="row">
+                            @Html.ActionLink("Onayla", "RezervasyonGuncelle", "Photographer", new { id = item.ID, durum = "onayla" }, new { @class = "bg-success text-white btn btn-outline-success btn-sm" })
+                            @Html.ActionLink("Reddet", "RezervasyonGuncelle", "Photographer", new { id = item.ID, durum = "sil" }, new { @class = "bg-danger text-white btn btn-outline-danger btn-sm" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+            sayac++;
+            <br />
+        }
+    </div>
+
+    @Html.Action("_FotografciFotograflari", new { fotografciID = ViewBag.KullaniciID })
+
+    <!-- END section -->
+</div>
+
+

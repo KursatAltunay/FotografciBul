@@ -1,0 +1,59 @@
+﻿@model Fotografci
+@{
+    ViewBag.Title = "UserRegister";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Fotoğrafçı Kayıt</h2>
+@*@{
+    List<SelectListItem> sehirler = new List<SelectListItem>();
+    sehirler.Add("Istanbul");
+    sehirler.Add("Ankara");
+    sehirler.Add("Bursa");
+    }*@
+    @using (Html.BeginForm("FotografciKaydet", "Photographer", FormMethod.Post, new { @class = "p-5 bg-white" }))
+{
+    <div class="row form-group">
+
+        <div class="col-md-6">
+            <label class="text-black" for="subject">Fotoğrafçı Adı:</label>
+            @Html.TextBoxFor(a => a.Adi, new { @class = "form-control" })
+        </div>
+        <div class="col-md-6">
+            <label class="text-black" for="email">Email</label>
+            @Html.TextBoxFor(a => a.Email, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="row form-group">
+        <div class="col-md-6">
+            <label class="text-black" for="subject">Şifre</label>
+            @Html.TextBoxFor(a => a.Sifre, new { @class = "form-control" })
+        </div>
+        <div class="col-md-6">
+            <label class="text-black" for="subject">Şifre Tekrar</label>
+            @Html.TextBoxFor(a => a.Adi, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="row form-group">
+        <div class="col-md-6">
+            <label class="text-black" for="subject">Telefon</label>
+            @Html.TextBoxFor(a => a.Telefon, new { @class = "form-control" })
+        </div>
+        <div class="col-md-6">
+            <label class="text-black" for="subject">Şehir</label>
+            @Html.TextBoxFor(a => a.Sehir, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="row form-group">
+        <div class="col-6">
+            <p>Kayıtlı mısınız? <a href="@Url.Action("FotografciGiris", "Photographer")" class="text-warning">Giriş Yap</a></p>
+        </div>
+    </div>
+
+    <div class="row form-group">
+        <div class="col-md-12">
+            <input type="submit" value="Sign In" class="btn btn-warning py-2 px-4 text-white">
+        </div>
+    </div>
+}
+

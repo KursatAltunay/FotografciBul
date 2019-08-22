@@ -1,0 +1,72 @@
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csprojAssemblyReference.cache
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.pdb
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll.config
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CopyComplete
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.dll
+C:\Users\Busra\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.pdb
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll.config
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CopyComplete
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.dll
+C:\Users\tuba\Desktop\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.pdb
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll.config
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csprojAssemblyReference.cache
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CopyComplete
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.dll
+C:\Users\MusTapHa\Desktop\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.DAL.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Core.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.pdb
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\FotografciBul.Model.dll.config
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.csproj.CopyComplete
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.dll
+C:\Users\tuba\Desktop\v4.1 filtre\FotografciBul-v4.0xx\FotografciBul\FotografciBul.DAL\obj\Debug\FotografciBul.DAL.pdb

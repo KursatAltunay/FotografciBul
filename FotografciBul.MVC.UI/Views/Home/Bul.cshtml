@@ -1,0 +1,39 @@
+﻿@model  List<Fotografci>
+
+@using (Html.BeginForm("KullaniciAnasayfa", "User", FormMethod.Post))
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#   </th>
+                <th scope="col">Name</th>
+                <th scope="col">Telefon</th>
+                <th scope="col">Adres</th>
+                <th scope="col">Sehir</th>
+                <th scope="col">Açıklama</th>
+                <th scope="col">Randevu Talebi</th>
+
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tbody>
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Adi</td>
+                    <td>@item.Telefon</td>
+                    <td>@item.Adres</td>
+                    <td>@item.Sehir</td>
+                    <td>@item.Aciklama</td>
+                    <td>
+                        @* butonlardan birisi seçilecek *@
+                        @Html.ActionLink("Randevu Al", "KullaniciAnasayfa", "User", new { fotografciId = item.ID, dto = @ViewBag.RandevuDetay }, new { @class = "btn btn-warning text-white"})
+                        
+                    </td>
+                </tr>
+            </tbody>
+
+        }
+    </table>
+}
+

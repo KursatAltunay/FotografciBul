@@ -1,0 +1,68 @@
+﻿@model List<Fotografci>
+
+@{
+    ViewBag.Title = "KullaniciAnasayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid mt-5 mb-5">
+    @Html.Action("_KullaniciBilgileri", "User", new { id = ViewBag.ID })
+</div>
+
+
+<div class="container">
+    <div class="panel-heading mt-5 mb-5">
+
+            <div class="col-lg-12 mb-4 mb-xl-0 col-xl-3 mb-2">
+                <h3 class="text-dark mb-3">Randevu Teyit Etme</h3>
+            </div>
+            <div class="row form-group">
+                <div class="col-lg-12 mb-4 mb-xl-0 col-xl-3 mb-2 ml-3">
+                    <label class="text-warning">Tarih Seçiniz :</label>
+                    <input name="tarih" type="date" class="form-control rounded" placeholder="Location">
+                </div>
+            </div>
+            @*@Html.Action("_Fotografcilar", "User" @*new { id = ViewBag.foto }*@)
+
+            @*Html.Action("_Hizmetler", "User", new { id= ViewBag.hizmet })*@
+
+            <div class="row form-group">
+                <div class="col-md-12 ml-3">
+                    <input type="submit" name="name" value="Kaydet" class="btn btn-warning py-2 px-4 text-white">
+                </div>
+            </div>
+        </div>
+
+    @*@foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Adi</td>
+                <td>@item.Telefon</td>
+                <td>@item.Adres</td>
+                <td>@item.Sehir</td>
+                <td>@item.Aciklama</td>
+                <td>
+                    @* butonlardan birisi seçilecek *@
+                    @Html.ActionLink("Randevu Al", "KullaniciAnasayfa", "User", new { @class = "btn btn-warning text-white", @onclick = "AddToMyRandevu(@item.ID)" })
+                    @*@<input type="button" name="name" class="btn btn-warning text-white" value="Randevu Al" onclick="AddToMyCart(@item.ID)" />
+                </td>
+            </tr>
+        </tbody>
+
+    }*@
+
+    <div>
+        @if (ViewBag.Error != null)
+        {
+            <span>@ViewBag.Error</span>
+        }
+    </div>
+</div>
+
+
+
+
+
+

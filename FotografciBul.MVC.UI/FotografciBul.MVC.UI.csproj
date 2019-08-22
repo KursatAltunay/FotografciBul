@@ -1,0 +1,396 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12B055B7-D6FE-4F48-8D22-682625014D90}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FotografciBul.MVC.UI</RootNamespace>
+    <AssemblyName>FotografciBul.MVC.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.2.0.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web.Common, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.Web.Common.3.2.0.0\lib\net45-full\Ninject.Web.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web.Mvc, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.MVC4.3.2.1.0\lib\net45-full\Ninject.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebActivatorEx.2.2.0\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.4\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.4\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\css\animate.css" />
+    <Content Include="Assets\css\aos.css" />
+    <Content Include="Assets\css\bootstrap-datepicker.css" />
+    <Content Include="Assets\css\bootstrap-grid.css" />
+    <Content Include="Assets\css\bootstrap-reboot.css" />
+    <Content Include="Assets\css\bootstrap.css" />
+    <Content Include="Assets\css\bootstrap.min.css" />
+    <Content Include="Assets\css\fancybox.min.css" />
+    <Content Include="Assets\css\jquery.timepicker.css" />
+    <Content Include="Assets\css\magnific-popup.css" />
+    <Content Include="Assets\css\owl.carousel.min.css" />
+    <Content Include="Assets\css\style.css" />
+    <Content Include="Assets\css\_custom.css" />
+    <Content Include="Assets\fonts\fontawesome\css\font-awesome.min.css" />
+    <Content Include="Assets\fonts\fontawesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Assets\fonts\ionicons\cheatsheet.html" />
+    <Content Include="Assets\fonts\ionicons\css\ionicons.css" />
+    <Content Include="Assets\fonts\ionicons\css\ionicons.min.css" />
+    <Content Include="Assets\fonts\ionicons\fonts\ionicons.svg" />
+    <Content Include="Assets\images\about_feature_image.png" />
+    <Content Include="Assets\images\default.jpg" />
+    <Content Include="Assets\images\dogum-3.jpg" />
+    <Content Include="Assets\images\dugun-1.jpg" />
+    <Content Include="Assets\images\food-1.jpg" />
+    <Content Include="Assets\images\foto-1.jpg" />
+    <Content Include="Assets\images\foto-2.jpg" />
+    <Content Include="Assets\images\foto-3.jpg" />
+    <Content Include="Assets\images\foto-4.jpg" />
+    <Content Include="Assets\images\hero_1.jpg" />
+    <Content Include="Assets\images\hero_2.jpg" />
+    <Content Include="Assets\images\hero_3.jpg" />
+    <Content Include="Assets\images\hero_4.jpg" />
+    <Content Include="Assets\images\hero_5.jpg" />
+    <Content Include="Assets\images\icon.ico" />
+    <Content Include="Assets\images\icon.png" />
+    <Content Include="Assets\images\image_5.jpg" />
+    <Content Include="Assets\images\image_6.jpg" />
+    <Content Include="Assets\images\image_7.jpg" />
+    <Content Include="Assets\images\img_1.jpg" />
+    <Content Include="Assets\images\img_2.jpg" />
+    <Content Include="Assets\images\img_3.jpg" />
+    <Content Include="Assets\images\img_4.jpg" />
+    <Content Include="Assets\images\img_5.jpg" />
+    <Content Include="Assets\images\mezun-1.jpg" />
+    <Content Include="Assets\images\person_1.jpg" />
+    <Content Include="Assets\images\person_2.jpg" />
+    <Content Include="Assets\images\person_3.jpg" />
+    <Content Include="Assets\images\person_4.jpg" />
+    <Content Include="Assets\images\resim1.jpg" />
+    <Content Include="Assets\images\resim3.jpg" />
+    <Content Include="Assets\images\resim_layout.png" />
+    <Content Include="Assets\images\round.png" />
+    <Content Include="Assets\images\slider-1.jpg" />
+    <Content Include="Assets\images\slider-2.jpg" />
+    <Content Include="Assets\images\slider-3.jpg" />
+    <Content Include="Assets\images\slider-4.jpg" />
+    <Content Include="Assets\images\slider-5.jpg" />
+    <Content Include="Assets\images\slider-6.jpg" />
+    <Content Include="Assets\images\slider-7.jpg" />
+    <Content Include="Assets\js\aos.js" />
+    <Content Include="Assets\js\bootstrap-datepicker.js" />
+    <Content Include="Assets\js\bootstrap.min.js" />
+    <Content Include="Assets\js\jquery-3.3.1.min.js" />
+    <Content Include="Assets\js\jquery-migrate-3.0.1.min.js" />
+    <Content Include="Assets\js\jquery.easing.1.3.js" />
+    <Content Include="Assets\js\jquery.fancybox.min.js" />
+    <Content Include="Assets\js\jquery.magnific-popup.min.js" />
+    <Content Include="Assets\js\jquery.stellar.min.js" />
+    <Content Include="Assets\js\jquery.timepicker.min.js" />
+    <Content Include="Assets\js\jquery.validate.min.js" />
+    <Content Include="Assets\js\jquery.waypoints.min.js" />
+    <Content Include="Assets\js\main.js" />
+    <Content Include="Assets\js\owl.carousel.min.js" />
+    <Content Include="Assets\js\popper.min.js" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Assets\css\bootstrap.css.map" />
+    <Content Include="Assets\fonts\.DS_Store" />
+    <Content Include="Assets\fonts\fontawesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Assets\fonts\fontawesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Assets\fonts\fontawesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Assets\fonts\fontawesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Assets\fonts\ionicons\.DS_Store" />
+    <Content Include="Assets\fonts\ionicons\fonts\ionicons.eot" />
+    <Content Include="Assets\fonts\ionicons\fonts\ionicons.ttf" />
+    <Content Include="Assets\fonts\ionicons\fonts\ionicons.woff" />
+    <Content Include="Assets\images\.DS_Store" />
+    <Content Include="Assets\js\.DS_Store" />
+    <Content Include="Assets\scss\bootstrap-grid.scss" />
+    <Content Include="Assets\scss\bootstrap-reboot.scss" />
+    <Content Include="Assets\scss\bootstrap.scss" />
+    <Content Include="Assets\scss\mixins\_alert.scss" />
+    <Content Include="Assets\scss\mixins\_background-variant.scss" />
+    <Content Include="Assets\scss\mixins\_badge.scss" />
+    <Content Include="Assets\scss\mixins\_border-radius.scss" />
+    <Content Include="Assets\scss\mixins\_box-shadow.scss" />
+    <Content Include="Assets\scss\mixins\_breakpoints.scss" />
+    <Content Include="Assets\scss\mixins\_buttons.scss" />
+    <Content Include="Assets\scss\mixins\_caret.scss" />
+    <Content Include="Assets\scss\mixins\_clearfix.scss" />
+    <Content Include="Assets\scss\mixins\_float.scss" />
+    <Content Include="Assets\scss\mixins\_forms.scss" />
+    <Content Include="Assets\scss\mixins\_gradients.scss" />
+    <Content Include="Assets\scss\mixins\_grid-framework.scss" />
+    <Content Include="Assets\scss\mixins\_grid.scss" />
+    <Content Include="Assets\scss\mixins\_hover.scss" />
+    <Content Include="Assets\scss\mixins\_image.scss" />
+    <Content Include="Assets\scss\mixins\_list-group.scss" />
+    <Content Include="Assets\scss\mixins\_lists.scss" />
+    <Content Include="Assets\scss\mixins\_nav-divider.scss" />
+    <Content Include="Assets\scss\mixins\_pagination.scss" />
+    <Content Include="Assets\scss\mixins\_reset-text.scss" />
+    <Content Include="Assets\scss\mixins\_resize.scss" />
+    <Content Include="Assets\scss\mixins\_screen-reader.scss" />
+    <Content Include="Assets\scss\mixins\_size.scss" />
+    <Content Include="Assets\scss\mixins\_table-row.scss" />
+    <Content Include="Assets\scss\mixins\_text-emphasis.scss" />
+    <Content Include="Assets\scss\mixins\_text-hide.scss" />
+    <Content Include="Assets\scss\mixins\_text-truncate.scss" />
+    <Content Include="Assets\scss\mixins\_transition.scss" />
+    <Content Include="Assets\scss\mixins\_visibility.scss" />
+    <Content Include="Assets\scss\style.scss" />
+    <Content Include="Assets\scss\utilities\_align.scss" />
+    <Content Include="Assets\scss\utilities\_background.scss" />
+    <Content Include="Assets\scss\utilities\_borders.scss" />
+    <Content Include="Assets\scss\utilities\_clearfix.scss" />
+    <Content Include="Assets\scss\utilities\_display.scss" />
+    <Content Include="Assets\scss\utilities\_embed.scss" />
+    <Content Include="Assets\scss\utilities\_flex.scss" />
+    <Content Include="Assets\scss\utilities\_float.scss" />
+    <Content Include="Assets\scss\utilities\_position.scss" />
+    <Content Include="Assets\scss\utilities\_screenreaders.scss" />
+    <Content Include="Assets\scss\utilities\_shadows.scss" />
+    <Content Include="Assets\scss\utilities\_sizing.scss" />
+    <Content Include="Assets\scss\utilities\_spacing.scss" />
+    <Content Include="Assets\scss\utilities\_text.scss" />
+    <Content Include="Assets\scss\utilities\_visibility.scss" />
+    <Content Include="Assets\scss\_alert.scss" />
+    <Content Include="Assets\scss\_badge.scss" />
+    <Content Include="Assets\scss\_breadcrumb.scss" />
+    <Content Include="Assets\scss\_button-group.scss" />
+    <Content Include="Assets\scss\_buttons.scss" />
+    <Content Include="Assets\scss\_card.scss" />
+    <Content Include="Assets\scss\_carousel.scss" />
+    <Content Include="Assets\scss\_close.scss" />
+    <Content Include="Assets\scss\_code.scss" />
+    <Content Include="Assets\scss\_custom-forms.scss" />
+    <Content Include="Assets\scss\_custom.scss" />
+    <Content Include="Assets\scss\_dropdown.scss" />
+    <Content Include="Assets\scss\_forms.scss" />
+    <Content Include="Assets\scss\_functions.scss" />
+    <Content Include="Assets\scss\_grid.scss" />
+    <Content Include="Assets\scss\_images.scss" />
+    <Content Include="Assets\scss\_input-group.scss" />
+    <Content Include="Assets\scss\_jumbotron.scss" />
+    <Content Include="Assets\scss\_list-group.scss" />
+    <Content Include="Assets\scss\_media.scss" />
+    <Content Include="Assets\scss\_mixins.scss" />
+    <Content Include="Assets\scss\_modal.scss" />
+    <Content Include="Assets\scss\_nav.scss" />
+    <Content Include="Assets\scss\_navbar.scss" />
+    <Content Include="Assets\scss\_pagination.scss" />
+    <Content Include="Assets\scss\_popover.scss" />
+    <Content Include="Assets\scss\_print.scss" />
+    <Content Include="Assets\scss\_progress.scss" />
+    <Content Include="Assets\scss\_reboot.scss" />
+    <Content Include="Assets\scss\_root.scss" />
+    <Content Include="Assets\scss\_tables.scss" />
+    <Content Include="Assets\scss\_tooltip.scss" />
+    <Content Include="Assets\scss\_transitions.scss" />
+    <Content Include="Assets\scss\_type.scss" />
+    <Content Include="Assets\scss\_utilities.scss" />
+    <Content Include="Assets\scss\_variables.scss" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\NinjectWebCommon.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PhotographerController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="CustomFilter\CustomFilter.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Contact.cs" />
+    <Compile Include="Models\Mail.cs" />
+    <Compile Include="Models\MyRandevu.cs" />
+    <Compile Include="Models\RandevuItemDTO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\MailHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_IndexLayout.cshtml" />
+    <Content Include="Views\User\UserLogin.cshtml" />
+    <Content Include="Views\Home\Fotografcilar.cshtml" />
+    <Content Include="Views\Home\Fotograflar.cshtml" />
+    <Content Include="Views\Home\Paketler.cshtml" />
+    <Content Include="Views\User\KayitOl.cshtml" />
+    <Content Include="Views\Home\Bul.cshtml" />
+    <Content Include="Views\User\_KullaniciBilgileri.cshtml" />
+    <Content Include="Views\User\KullaniciAnasayfa.cshtml" />
+    <Content Include="Views\Home\MailResult.cshtml" />
+    <Content Include="Views\Photographer\BilgileriDuzenle.cshtml" />
+    <Content Include="Views\Photographer\FotografciAnasayfa.cshtml" />
+    <Content Include="Views\Photographer\FotografciGiris.cshtml" />
+    <Content Include="Views\Photographer\FotografciKaydet.cshtml" />
+    <Content Include="Views\Photographer\_FotografciBilgileri.cshtml" />
+    <Content Include="Views\Photographer\_FotografciFotograflari.cshtml" />
+    <Content Include="Views\Photographer\_FotografciHizmetleriniDuzenle.cshtml" />
+    <Content Include="Views\User\_Fotografcilar.cshtml" />
+    <Content Include="Views\User\_Hizmetler.cshtml" />
+    <Content Include="Views\Shared\_ProfilLayout.cshtml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FotografciBul.BLL\FotografciBul.BLL.csproj">
+      <Project>{1809D56C-3DB9-4067-BDCD-B86A25FC4D31}</Project>
+      <Name>FotografciBul.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FotografciBul.Core\FotografciBul.Core.csproj">
+      <Project>{dc02b403-e86f-44d6-97c0-87480d5b28c5}</Project>
+      <Name>FotografciBul.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FotografciBul.DAL\FotografciBul.DAL.csproj">
+      <Project>{D3EB62C9-D77D-4A5D-A93B-078BFF1D9601}</Project>
+      <Name>FotografciBul.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FotografciBul.Model\FotografciBul.Model.csproj">
+      <Project>{fb95920c-76f7-482f-8e75-c3e1528cbb16}</Project>
+      <Name>FotografciBul.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>63877</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:63877/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
